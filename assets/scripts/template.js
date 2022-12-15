@@ -5,7 +5,10 @@ window.MUSIC = {
         'url': "https://pruthvigardenstudio.github.io/krupa_bhavin/assets/music/song.mp3",
         'box': '#music-box'
     };
-window.EVENT = 1670641200;
+// ---------- datetime to number ------------------------------
+// https://esqsoft.com/javascript_examples/date-to-epoch.htm 
+// ------------------------------------------------------------
+window.EVENT = 1674700200;
 window.BOOKS = [{"bank":"Bank Central Asia (BCA)","number_account":"1341464600"}];
 
 // ---------- Start Your Journey (Function) --------------------------------------------------
