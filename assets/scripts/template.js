@@ -2,7 +2,7 @@
     GENERAL CONFIGURATION
 ============================================= */
 window.MUSIC = {
-        'url': "https://doskoyz.github.io/diostella/assets/music/song.mp3",
+        'url': "https://pruthvigardenstudio.github.io/krupa_bhavin/assets/music/song.mp3",
         'box': '#music-box'
     };
 window.EVENT = 1670641200;
